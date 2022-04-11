@@ -3,7 +3,8 @@
 int main()
 
 {
-    int a=50,b=25;
-    printf("add",a+b);
+    for(int i = 0 ; i<=10 ; i++){
+    printf("Hello World");
+    }
     return 0;
 }
